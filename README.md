@@ -1,19 +1,19 @@
-To-Do List Application:
+**To-Do List Application:**
 
 A simple, yet functional to-do list application built using HTML, CSS, and JavaScript.
 
-Table of Contents:
+**Table of Contents:**
 
 Features
 Usage
 
-Features:
+**Features:**
 
 Add tasks
 Mark tasks as completed
 Delete tasks
 
-Usage:
+**Usage:**
 
 Add a Task: Type your task into the input field and press Enter or click the Add button.
 Mark as Completed: Click on the task to mark it as completed.
